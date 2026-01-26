@@ -4,19 +4,20 @@ public class Lab005_PrintFTable {
 
     public static void main(String[] args) {
 
-        int a = 5;
+        float f = 12.4f;
 
-        System.out.println("The table of " +a+ " is as follows:");
-        System.out.printf("%d x 1 = %d%n", a, (a));
-        System.out.printf("%d x 2 = %d%n", a, (a*2));
-        System.out.printf("%d x 3 = %d%n", a, (a*3));
-        System.out.printf("%d x 4 = %d%n", a, (a*4));
-        System.out.printf("%d x 5 = %d%n", a, (a*5));
-        System.out.printf("%d x 6 = %d%n", a, (a*6));
-        System.out.printf("%d x 7 = %d%n", a, (a*7));
-        System.out.printf("%d x 8 = %d%n", a, (a*8));
-        System.out.printf("%d x 9 = %d%n", a, (a*9));
-        System.out.printf("%d x 10 = %d%n", a, (a*10));
+        System.out.println("The table of " +f+ " is as below: ");
+
+        System.out.printf("%f x 1 = %f%n", f, (f * 1));
+        System.out.printf("%f x 2 = %f%n", f, (f * 2));
+        System.out.printf("%f x 3 = %f%n", f, (f * 3));
+        System.out.printf("%f x 4 = %f%n", f, (f * 4));
+        System.out.printf("%f x 5 = %f%n", f, (f * 5));
+        System.out.printf("%f x 6 = %f%n", f, (f * 6));
+        System.out.printf("%f x 7 = %f%n", f, (f * 7));
+        System.out.printf("%f x 8 = %f%n", f, (f * 8));
+        System.out.printf("%f x 9 = %f%n", f, (f * 9));
+        System.out.printf("%f x 10 = %f%n", f, (f * 10));
 
     }
 }

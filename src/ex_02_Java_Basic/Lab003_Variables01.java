@@ -27,6 +27,8 @@ public class Lab003_Variables01 {
 
         double d = 12343.1234;
 
+
+
         System.out.println("The age is: "  +ch);
 
     }
