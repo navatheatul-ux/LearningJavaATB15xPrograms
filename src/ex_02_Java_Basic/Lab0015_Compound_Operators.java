@@ -19,10 +19,10 @@ public class Lab0015_Compound_Operators {
         System.out.println(age);
 
 
-        String name = "Atul";
-
-        int a = 10;
-        System.out.println(name instanceof String);   // This is instanceof operator we used here, give result in the form of boolean True & False
+//        String name = "Atul";
+//
+//        int a = 10;
+//        System.out.println(name instanceof String);   // This is instanceof operator we used here, give result in the form of boolean True & False
 
     }
 }
